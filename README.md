@@ -34,7 +34,7 @@ pip install pandas numpy matplotlib seaborn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/olympic-analysis.git
+   git clone https://github.com/vikastomar0010/olympic-analysis.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -63,10 +63,6 @@ The notebook includes:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to improve this project.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
 
